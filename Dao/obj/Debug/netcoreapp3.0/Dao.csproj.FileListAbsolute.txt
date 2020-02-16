@@ -1,5 +1,0 @@
-C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\bin\Debug\netcoreapp3.0\Dao.deps.json
-C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\bin\Debug\netcoreapp3.0\Dao.dll
-C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\obj\Debug\netcoreapp3.0\Dao.csprojAssemblyReference.cache
-C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\obj\Debug\netcoreapp3.0\Dao.AssemblyInfoInputs.cache
-C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\obj\Debug\netcoreapp3.0\Dao.AssemblyInfo.cs

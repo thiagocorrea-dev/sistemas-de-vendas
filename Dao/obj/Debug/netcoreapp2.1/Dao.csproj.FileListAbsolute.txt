@@ -1,8 +1,0 @@
-C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\bin\Debug\netcoreapp2.1\Dao.deps.json
-C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\bin\Debug\netcoreapp2.1\Dao.dll
-C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\bin\Debug\netcoreapp2.1\Dao.pdb
-C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\obj\Debug\netcoreapp2.1\Dao.csprojAssemblyReference.cache
-C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\obj\Debug\netcoreapp2.1\Dao.AssemblyInfoInputs.cache
-C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\obj\Debug\netcoreapp2.1\Dao.AssemblyInfo.cs
-C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\obj\Debug\netcoreapp2.1\Dao.dll
-C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\obj\Debug\netcoreapp2.1\Dao.pdb
