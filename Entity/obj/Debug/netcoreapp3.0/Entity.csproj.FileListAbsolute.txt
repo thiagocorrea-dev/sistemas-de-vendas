@@ -1,0 +1,11 @@
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Entity\bin\Debug\netcoreapp3.0\Entity.exe
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Entity\bin\Debug\netcoreapp3.0\Entity.deps.json
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Entity\bin\Debug\netcoreapp3.0\Entity.runtimeconfig.json
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Entity\bin\Debug\netcoreapp3.0\Entity.runtimeconfig.dev.json
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Entity\bin\Debug\netcoreapp3.0\Entity.dll
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Entity\bin\Debug\netcoreapp3.0\Entity.pdb
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Entity\obj\Debug\netcoreapp3.0\Entity.csprojAssemblyReference.cache
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Entity\obj\Debug\netcoreapp3.0\Entity.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Entity\obj\Debug\netcoreapp3.0\Entity.AssemblyInfo.cs
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Entity\obj\Debug\netcoreapp3.0\Entity.dll
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Entity\obj\Debug\netcoreapp3.0\Entity.pdb

@@ -1,0 +1,11 @@
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\bin\Debug\netcoreapp3.0\Dao.exe
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\bin\Debug\netcoreapp3.0\Dao.deps.json
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\bin\Debug\netcoreapp3.0\Dao.runtimeconfig.json
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\bin\Debug\netcoreapp3.0\Dao.runtimeconfig.dev.json
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\bin\Debug\netcoreapp3.0\Dao.dll
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\bin\Debug\netcoreapp3.0\Dao.pdb
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\obj\Debug\netcoreapp3.0\Dao.csprojAssemblyReference.cache
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\obj\Debug\netcoreapp3.0\Dao.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\obj\Debug\netcoreapp3.0\Dao.AssemblyInfo.cs
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\obj\Debug\netcoreapp3.0\Dao.dll
+C:\Users\thiag\Documents\GitHub\sistemas-de-vendas\Dao\obj\Debug\netcoreapp3.0\Dao.pdb

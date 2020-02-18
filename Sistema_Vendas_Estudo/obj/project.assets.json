@@ -1,11 +1,62 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business.dll": {}
+        }
+      },
+      "Dao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Dao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dao.dll": {}
+        }
+      },
+      "Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entity.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Business/1.0.0": {
+      "type": "project",
+      "path": "../Business/Business.csproj",
+      "msbuildProject": "../Business/Business.csproj"
+    },
+    "Dao/1.0.0": {
+      "type": "project",
+      "path": "../Dao/Dao.csproj",
+      "msbuildProject": "../Dao/Dao.csproj"
+    },
+    "Entity/1.0.0": {
+      "type": "project",
+      "path": "../Entity/Entity.csproj",
+      "msbuildProject": "../Entity/Entity.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "Business >= 1.0.0",
+      "Dao >= 1.0.0",
+      "Entity >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\thiag\\.nuget\\packages\\": {},
@@ -37,7 +88,17 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\thiag\\Documents\\GitHub\\sistemas-de-vendas\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\thiag\\Documents\\GitHub\\sistemas-de-vendas\\Business\\Business.csproj"
+            },
+            "C:\\Users\\thiag\\Documents\\GitHub\\sistemas-de-vendas\\Dao\\Dao.csproj": {
+              "projectPath": "C:\\Users\\thiag\\Documents\\GitHub\\sistemas-de-vendas\\Dao\\Dao.csproj"
+            },
+            "C:\\Users\\thiag\\Documents\\GitHub\\sistemas-de-vendas\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\thiag\\Documents\\GitHub\\sistemas-de-vendas\\Entity\\Entity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
