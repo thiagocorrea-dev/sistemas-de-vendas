@@ -12375,6 +12375,56 @@
         }
       },
       {
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__VcHeaderViewComponentTagHelper",
+        "AssemblyName": "Sistema_Vendas_Estudo",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:vc-header",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__VcHeaderViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "VcHeader"
+        }
+      },
+      {
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__VcMenuViewComponentTagHelper",
+        "AssemblyName": "Sistema_Vendas_Estudo",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:vc-menu",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__VcMenuViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "VcMenu"
+        }
+      },
+      {
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14344,6 +14394,11 @@
   "RootNamespace": "Sistema_Vendas_Estudo",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\thiag\\Documents\\GitHub\\sistemas-de-vendas\\Sistema_Vendas_Estudo\\Views\\Shared\\Components\\VcMenu\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\VcMenu\\Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\thiag\\Documents\\GitHub\\sistemas-de-vendas\\Sistema_Vendas_Estudo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -14366,6 +14421,11 @@
     {
       "FilePath": "c:\\Users\\thiag\\Documents\\GitHub\\sistemas-de-vendas\\Sistema_Vendas_Estudo\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\thiag\\Documents\\GitHub\\sistemas-de-vendas\\Sistema_Vendas_Estudo\\Views\\Shared\\Components\\VcHeader\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\VcHeader\\Default.cshtml",
       "FileKind": "mvc"
     },
     {
